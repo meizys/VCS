@@ -95,40 +95,12 @@ bottom: 12px;
 .title-block h5 span::last-child {
 padding-left:16px;
 }
+
 .MOK {
 	text-align: center;
-
-}
-.useriai {
-	width: 100%;
-	max-width: 992px;
-	margin: 0 auto;
 }
 
-.kalnu-sarasas {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
 
-.kalnu-sarasas .kalnu-sarasas-item {
-	
-	display: inline-block;
-}
-
-.kalnu-sarasas .kalnu-sarasas-item img {
-	transition: 2s all ;	      
-   
-}
-
-.kalnu-sarasas .kalnu-sarasas-item img.clicked {
-    -webkit-transform:rotateY(360deg);
-    -moz-transform:rotateY(360deg);
-	-ms-transform:rotateY(360deg);
-    -o-transform:rotateY(360deg);
-    transform:rotateY(360deg);
-
-}
 
 
 
