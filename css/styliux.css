@@ -1,0 +1,138 @@
+header {
+
+background: url('C:/Users/uselt/Desktop/VCS/Paskaitos/HTML_css/home work/PirmasNamuDarbas/images/kalnas.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+
+}
+
+.overlay{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(254, 242, 233, 0.35);
+}
+body {
+	margin: 0px;
+}
+
+body *{
+	font-family: sans-serif;
+}
+
+.logo {
+	top:32px;
+	left:32px;
+	height: 100px;
+width: 100px;
+position: absolute;
+z-index: 1;
+	}
+
+nav {
+	position: absolute;
+		top:32px;
+	right: 16px;
+	height: 100px;
+}
+
+nav ul li {
+	display: inline;
+	margin-left: 16px;
+
+}
+
+nav ul a {
+	color: #FFF5F1;
+	text-decoration: none;
+	font-size: 24px;
+}
+
+
+.title-block {
+	position: absolute;
+	width: 100%;
+	top: 50%;
+	left: 0%;
+	transform: translateY(-30%);
+
+}
+
+.title-block h1, .title-block h5 {
+	text-align: center;
+
+
+}
+
+.title-block h1 {
+	font-size: 64px;
+	margin-bottom: 0px;
+
+}
+
+.title-block h5 {
+	font-size: 32px;
+	margin-top: 11px;
+}
+
+
+.title-block h5 span {
+	text-align: center;
+width: 64px;
+border-top: 1px solid black;
+display: inline-block;
+position: relative;
+bottom: 12px;
+}
+
+.title-block h5 span::first-child {
+	padding-right:16px;
+}
+
+.title-block h5 span::last-child {
+padding-left:16px;
+}
+.MOK {
+	text-align: center;
+
+}
+.useriai {
+	width: 100%;
+	max-width: 992px;
+	margin: 0 auto;
+}
+
+.kalnu-sarasas {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.kalnu-sarasas .kalnu-sarasas-item {
+	
+	display: inline-block;
+}
+
+.kalnu-sarasas .kalnu-sarasas-item img {
+	transition: 2s all ;	      
+   
+}
+
+.kalnu-sarasas .kalnu-sarasas-item img.clicked {
+    -webkit-transform:rotateY(360deg);
+    -moz-transform:rotateY(360deg);
+	-ms-transform:rotateY(360deg);
+    -o-transform:rotateY(360deg);
+    transform:rotateY(360deg);
+
+}
+
+
+
+
+
