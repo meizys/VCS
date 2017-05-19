@@ -25,10 +25,15 @@ body *{
 	font-family: sans-serif;
 }
 
+.jhead-top{
+	height: 250px;
+width: 180px;
+}
+
 .jusai {
 	
-height: 200px;
-width: 200px;
+height: 120px;
+width: 120px;
 
 	}
 
@@ -40,7 +45,6 @@ nav {
 
 nav ul li {
 	display: inline;
-	margin-left: 16px;
 
 }
 
