@@ -25,18 +25,16 @@ body *{
 	font-family: sans-serif;
 }
 
-.logo {
-	top:32px;
-	left:32px;
-height: 50px;
-width: 100px;
-position: absolute;
-z-index: 1;
+.jusai {
+	
+height: 200px;
+width: 200px;
+
 	}
 
 nav {
 	position: absolute;
-		top:32px;
+		
 	height: 100px;
 }
 
@@ -68,7 +66,8 @@ nav ul a {
 
 }
 
-.title-block h1 {
+.title-block h1  {
+	margin-top: 0px;
 	font-size: 64px;
 	margin-bottom: 0px;
 
