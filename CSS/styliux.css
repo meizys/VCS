@@ -15,7 +15,7 @@ background: url('../images/kalnas.jpg') no-repeat center center fixed;
 	bottom: 0;
 	width: 100%;
 	height: 100vh;
-	background-color: rgba(254, 242, 233, 0.35);
+	background-color: rgba(105, 43, 0, 0.35);
 }
 body {
 	margin: 0px;
@@ -25,67 +25,51 @@ body *{
 	font-family: sans-serif;
 }
 
-.jhead-top{
-	height: 250px;
-width: 180px;
+.navbar-fixed .nav-wrapper{
+	line-height: 100px;;
+
 }
 
-.jusai {
-	
-height: 120px;
-width: 120px;
+div .cls {
+    position: absolute;
+    height: 100%;
+    width: 417.51px;
+}
+
+.logo {
+	top:32px;
+	left:32px;
+	height: 100px;
+width: 100px;
+position:absolute;
 
 	}
 
-	.jknav {
-		outline-width: 300px;
-		line-height: 100px;
-	}
-
-nav {
+.jusai
+{
+	z-index: 1;
+	top: 50%;
+	left: 50%;
 	position: absolute;
-		
+	height: 100px;
+	width: 100px;
+	align-items: center;
+}
+nav {
+	position: fixed;
 	height: 100px;
 }
 
 nav ul li {
 	display: inline;
+	margin-left: 16px;
 
 }
 
-nav ul a {
-	color: #FFF5F1;
-	text-decoration: none;
-	font-size: 24px;
-	line-height: 100px;
-}
 
-
-.title-block {
-	position: absolute;
-	width: 100%;
-	top: 50%;
-	left: 0%;
-	transform: translateY(-30%);
-
-}
-
-.title-block h1, .title-block h5 {
-	text-align: center;
-
-
-}
-
-.title-block h1  {
-	margin-top: 0px;
-	font-size: 64px;
-	margin-bottom: 0px;
-
-}
-
-.title-block h5 {
-	font-size: 32px;
-	margin-top: 11px;
+.title-block{
+	align-items: center;
+	position: relative;
 }
 
 
@@ -105,12 +89,40 @@ bottom: 12px;
 .title-block h5 span::last-child {
 padding-left:16px;
 }
-
 .MOK {
 	text-align: center;
+
+}
+.useriai {
+	width: 100%;
+	max-width: 992px;
+	margin: 0 auto;
 }
 
+.kalnu-sarasas {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
 
+.kalnu-sarasas .kalnu-sarasas-item {
+	
+	display: inline-block;
+}
+
+.kalnu-sarasas .kalnu-sarasas-item img {
+	transition: 2s all ;	      
+   
+}
+
+.kalnu-sarasas .kalnu-sarasas-item img.clicked {
+    -webkit-transform:rotateY(360deg);
+    -moz-transform:rotateY(360deg);
+	-ms-transform:rotateY(360deg);
+    -o-transform:rotateY(360deg);
+    transform:rotateY(360deg);
+
+}
 
 
 
