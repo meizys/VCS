@@ -1,8 +1,8 @@
-<?php include (header.php); ?>
+<?php include ('header.php'); ?>
   
-	<body>
+    <body>
 
-	<h2 class="MOK">Meet our kalnai</h2>
+    <h2 class="MOK">Meet our kalnai</h2>
 
   <div class="row">
     <div class="col s12 m6 l4">
@@ -44,4 +44,4 @@
   </div>
 
 </body>
-<?php include (footer.php); ?>
+<?php include ('footer.php'); ?>
