@@ -69,6 +69,15 @@ nav div {
 	height: 140px;
 }
 
+.mpt1 img {
+	width: 140px;
+	height: 140px;
+}
+
+.mpt1 h1, .mpt1 h5 {
+	text-align: center;
+}
+
 .jpt1 h5{
 	font-size: 16px;
 }
