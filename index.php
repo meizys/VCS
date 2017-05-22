@@ -22,7 +22,7 @@
         <div class="card-image">
           <img src="images/kalnas1.jpg">
           <span class="card-title">Card Title</span>
-          <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons"><link rel="stylesheet" type="text/css" href="http://www.delfi.lt/letena/patarimai/kas-nutiktu-jei-katei-ar-suniui-pasalintumete-usus.d?id=70321038"></i></a>
         </div>
         <div class="card-content">
           <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>

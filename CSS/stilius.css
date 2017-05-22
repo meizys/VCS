@@ -86,4 +86,6 @@ nav div {
 .mapas {
 	position: absolute;
 z-index: 1;
+	right: 524px;
+	top: 35vh;
 }
