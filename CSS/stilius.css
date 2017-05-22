@@ -89,3 +89,21 @@ z-index: 1;
 	right: 524px;
 	top: 35vh;
 }
+
+.tomai img {
+	position: relative;
+	border-radius: 50%;
+	z-index: 1;
+}
+
+.tj {
+	position: absolute;
+	left: 160px;
+	top: 360px;
+}
+
+.tm {
+	position: absolute;
+	right: 160px;
+	top: 360px;
+}
