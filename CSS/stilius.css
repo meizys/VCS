@@ -67,6 +67,7 @@ nav div {
 .jpt1 img {
 	width: 140px;
 	height: 140px;
+
 }
 
 .mpt1 img {
@@ -100,7 +101,7 @@ nav div {
 
 .mapas {
 	
-z-index: 1;
+align-items: center;
 
 }
 
@@ -112,28 +113,12 @@ z-index: 1;
 
 .tj {
 	
-	left: 160px;
-	top: 360px;
 }
 
 .tm {
 	
-	right: 160px;
-	top: 360px;
 }
 
-.tj button {
-	border-radius: 50%;
-}
-
-.tm button {
-	border-radius: 50%;
-}
-
-.tj p {
-	position: absolute;
-	left: 24px;
-}
 
 .row {
 	position: relative;
