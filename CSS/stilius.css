@@ -92,8 +92,7 @@ nav div {
 .mapas {
 	
 z-index: 1;
-	
-	top: 35vh;
+
 }
 
 .tomai img {
@@ -125,4 +124,9 @@ z-index: 1;
 .tj p {
 	position: absolute;
 	left: 24px;
+}
+
+.row {
+	position: relative;
+	z-index: 1;
 }
