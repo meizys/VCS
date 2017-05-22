@@ -34,7 +34,7 @@ else
 		<img class="logo" src="images/head-top.png">
 		<ul id="nav-mobile" class="right">
         	<li><a href="index.php">Home</a></li>
-        	<li><a href="portfolio.php">News</a></li>
+        	<li><a href="portfolio.php">Njūsai</a></li>
         	<li><a href="#">About</a></li>
         	<li><a href="contacts.php">Contacts</a></li>
       	</ul>
