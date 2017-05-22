@@ -1,4 +1,8 @@
-<?php include ('header.php'); ?>
+
+<?php  $pavadinimas = "home";
+
+include ('header.php'); ?>
+
 <div class="row">
 
 <div class="tomai">
