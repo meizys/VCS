@@ -1,3 +1,4 @@
+/*Navigacijos CSS*/
 body {
 	margin: 0px;
 }
@@ -16,7 +17,6 @@ header {
 	height: 100vh;
 }
 
-
 .overlay {
 	position: absolute;
 	top:0;
@@ -31,11 +31,6 @@ display: block;
 position: relative;
 margin-left: auto;
 margin-right: auto;
-}
-
-#task_flyout.fixed{
-position:fixed; top:50%; right:50%;
-
 }
 
 nav {
@@ -55,40 +50,35 @@ nav div {
 	top:0px;
 }
 
-.jpt1 {
+
+/*Pagrindinio puslapio headeris*/
+.homeHeader {
 	color: black;
 	position: absolute;
 	width: 100%;
 	left: 0px;
 	top: 50vh;
 	transform: translateY(-16%);
-	
 }
 
-.jpt1 h1, .jpt1 h5 {
-	text-align: center;
+#task_flyout.fixed{
+position:fixed; top:50%; right:50%;
 }
 
-.jpt1 img {
-	width: 140px;
-	height: 140px;
-
-}
-
-.mpt1 img {
+.homeHeader img {
 	width: 140px;
 	height: 140px;
 }
 
-.mpt1 h1, .mpt1 h5 {
+.homeHeader h1, .homeHeader h2 {
 	text-align: center;
 }
 
-.jpt1 h5{
+.homeHeader h2{
 	font-size: 32px;
 }
 
-.jpt1 h5 span {
+.homeHeader h2 span {
 	width: 64px;
 	border-top: 1px black solid;
 	display: inline-block;
@@ -96,44 +86,39 @@ nav div {
 	bottom: 4px;
 }
 
-.jpt1 h5 span::first-child {
+.homeHeader h2 span::first-child {
 	padding-right: 16px;
 }
 
-.jpt1 h5 span::last-child {
+.homeHeader h2 span::last-child {
 	padding-left: 16px;
 }
 
+/*Puslapių kur headeris ne per visa ekrana CSS*/
+.otherHeaders img {
+	width: 140px;
+	height: 140px;
+}
+
+.otherHeaders h1, .otherHeaders h2 {
+	text-align: center;
+}
+
+/*Kontantų puspapio CSS*/
 .mapas {
-	
    border-radius: 50%;
-    z-index: 1;
-    display: block;
-        margin: 0 auto
+   z-index: 1;
+   display: inline-block;
+   margin: 0 auto
 }
 
-
-.tm div
-{
-
-}
-
-.tj img {
-	   border-radius: 50%;
+.snukiai img {
+	border-radius: 50%;
     z-index: 1;
-    display: block;
+    display: inline-block;
     width: 200px;
     margin: 0 auto
 }
-
-.tm img {
-	    border-radius: 50%;
-    z-index: 1;
-    display: block;
-    width: 200px;
-    margin: 0 auto
-}
-
 
 .row {
 	position: relative;

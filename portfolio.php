@@ -1,6 +1,6 @@
 <?php include ('header.php'); ?>
   
-  <div class="mpt1">
+  <div class="otherHeaders">
     <h1><img src="images/usai.png"></h1>
 <!--     <h5>
     <span></span>
