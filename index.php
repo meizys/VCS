@@ -1,8 +1,20 @@
-<?php include ('header.php'); ?>
-  
-    <body>
 
-    <h2 class="MOK">Meet our kalnai</h2>
+
+<?php include ('header.php'); ?>
+
+	<div class="jpt1">
+		<h1><img src="images/usai.png"></h1>
+		<h5>
+		<span></span>
+		Vešlūs
+		<span></span>
+		</h5>
+	</div>
+
+</header>
+
+
+<h2 class="MOK">Meet our kalnai</h2>
 
   <div class="row">
     <div class="col s12 m6 l4">
@@ -42,6 +54,6 @@
       </div>
     </div>
   </div>
+<!-- futeris -->
+  </body>
 
-</body>
-<?php include ('footer.php'); ?>

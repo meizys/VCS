@@ -1,0 +1,89 @@
+body {
+	margin: 0px;
+}
+
+body * {
+  font-family: 'Merriweather', serif;
+}
+
+header {
+	background-image: url(../images/kalnas.jpg);
+	height: 100vh;
+}
+
+.overlay {
+	position: absolute;
+	top:0;
+	bottom: 0;
+	width: 100%;
+	background-color: rgba(255, 238, 218, 0.35);
+}
+
+.logo
+{
+	display: block;
+position: relative;
+margin-left: auto;
+margin-right: auto;
+}
+
+nav {
+	position: absolute;
+	z-index: 1;
+}
+
+nav ul {
+	position: absolute;
+	right: 16px;
+	top:0px;
+}
+
+nav div {
+	position: absolute;
+	left: 16px;
+	top:0px;
+}
+
+.jpt1 {
+	color: black;
+	position: absolute;
+	width: 100%;
+	left: 0px;
+	top: 50vh;
+	transform: translateY(-16%);
+	
+}
+
+.jpt1 h1, .jpt1 h5 {
+	text-align: center;
+}
+
+.jpt1 img {
+	width: 140px;
+	height: 140px;
+}
+
+.jpt1 h5{
+	font-size: 16px;
+}
+
+.jpt1 h5 span {
+	width: 64px;
+	border-top: 1px black solid;
+	display: inline-block;
+	position: relative;
+	bottom: 4px;
+}
+
+.jpt1 h5 span::first-child {
+	padding-right: 16px;
+}
+
+.jpt1 h5 span::last-child {
+	padding-left: 16px;
+}
+
+.mapas {
+	position: absolute;
+z-index: 1;
+}

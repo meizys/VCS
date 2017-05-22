@@ -1,54 +1,42 @@
 <!DOCTYPE html>
 <html>
+
 <head>
+	<title>UsuotasPuslapis</title>
+
 <meta charset="utf-8">
+
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Font+Name">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+<link rel="stylesheet" type="text/css" href="css/stilius.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+<script src="scripts/script.js"></script>
 
-<link rel="stylesheet" type="text/css" href="css/styliux.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-
-<title>NamųDaržas</title>
 </head>
 
+<body>
 <header>
-	
+
 	<div class="overlay"></div>
+	<div class="navbar-fixed">
+	<nav class="nav-wrapper grey lighten-1">
+		<img class="logo" src="images/head-top.png">
+		<ul id="nav-mobile" class="right">
+        	<li><a href="index.php">Home</a></li>
+        	<li><a href="portfolio.php">Portfolio</a></li>
+        	<li><a href="#">About</a></li>
+        	<li><a href="contacts.php">Contacts</a></li>
+      	</ul>
 
-
- 
-    <nav class="navbar-fixed nav-wrapper  brown">
-     
-          <a href="#!" class="brand-logo center"><img class="jhead-top" src="images/head-top.png"></a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="sass.html">Home</a></li>
-        <li><a href="badges.html">About</a></li>
-        <li><a href="badges.html">Contacts</a></li>
-        <li><a href="badges.html">Source</a></li>
-     </ul>
-
-  
-      <div class=" cls s12">
-      
-        <a href="#!" class="breadcrumb">First</a>
-        <a href="#!" class="breadcrumb">Second</a>
-        <a href="#!" class="breadcrumb">Third</a>
-      </div>
-
+      	
+      	<div class="col s12">
+        	<a href="#!" class="breadcrumb">Pierwszy</a>
+        	<a href="#!" class="breadcrumb">Drugi</a>
+        	<a href="#!" class="breadcrumb">Trzeci</a>
+     	 </div>
+    
     </nav>
+    </div>
 
-
-
-
-  <div class="title-block">
-	<h1 ><img class="jusai" src="images/usai.png"></h1>
-	<h5 >
-
-	<span></span>
-	Aukšti
-	<span></span>
-
-	</h5>
-
-  </div>
-</header>
