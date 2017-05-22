@@ -27,10 +27,20 @@ header {
 
 .logo
 {
-	display: block;
+display: block;
 position: relative;
 margin-left: auto;
 margin-right: auto;
+}
+
+.logo.fixed
+{
+position:fixed; top:50%; right:50%; z-index:3;
+}
+
+
+#task_flyout.fixed{
+position:fixed; top:50%; right:50%; z-index:3;
 }
 
 nav {
@@ -80,7 +90,7 @@ nav div {
 }
 
 .jpt1 h5{
-	font-size: 16px;
+	font-size: 32px;
 }
 
 .jpt1 h5 span {
@@ -107,7 +117,6 @@ nav div {
         margin: 0 auto
 }
 
-}
 
 .tm div
 {
@@ -120,7 +129,6 @@ nav div {
     display: block;
     width: 200px;
     margin: 0 auto
-}
 }
 
 .tm img {
