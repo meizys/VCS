@@ -101,23 +101,34 @@ nav div {
 
 .mapas {
 	
-align-items: center;
+   border-radius: 50%;
+    z-index: 1;
+    display: block;
+        margin: 0 auto
+}
 
 }
 
 .tm div
 {
-	
+
 }
 
 .tj img {
-	border-radius: 50%;
-	z-index: 1;
+	   border-radius: 50%;
+    z-index: 1;
+    display: block;
+    width: 200px;
+    margin: 0 auto
+}
 }
 
 .tm img {
-	border-radius: 50%;
-	z-index: 1;
+	    border-radius: 50%;
+    z-index: 1;
+    display: block;
+    width: 200px;
+    margin: 0 auto
 }
 
 
