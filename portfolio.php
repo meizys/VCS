@@ -1,15 +1,13 @@
 <?php include ('header.php'); ?>
   
   <div class="mpt1">
-    <h1><img src="images/Down.png"></h1>
-    <h5>
+    <h1><img src="images/usai.png"></h1>
+<!--     <h5>
     <span></span>
     Istorijos apačioj
     <span></span>
     </h5>
-  </div>
-
-
+ -->  </div>
 
 </header>
 
@@ -63,8 +61,6 @@
       </div>
     </div>
   </div>
-
-
 
 </html>
 
