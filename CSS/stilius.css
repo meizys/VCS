@@ -33,14 +33,9 @@ margin-left: auto;
 margin-right: auto;
 }
 
-.logo.fixed
-{
-position:fixed; top:50%; right:50%; z-index:3;
-}
-
-
 #task_flyout.fixed{
-position:fixed; top:50%; right:50%; z-index:3;
+position:fixed; top:50%; right:50%;
+
 }
 
 nav {

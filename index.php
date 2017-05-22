@@ -3,11 +3,11 @@
 
 $pavadinimas = "home";
 include ('header.php'); ?>
- <h1><img id="task_flyout" src="images/usai.png"></h1>
+
 
 	<div class="jpt1">
 
-
+ <h1><img id="task_flyout" src="images/usai.png"></h1>
      
 
 		<h5>
