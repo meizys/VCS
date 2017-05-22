@@ -41,9 +41,9 @@ else
 
       	
       	<div class="col s12">
-        	<a href="#!" class="breadcrumb">Pierwszy</a>
-        	<a href="#!" class="breadcrumb">Drugi</a>
-        	<a href="#!" class="breadcrumb">Trzeci</a>
+        	<a href="#!" class="breadcrumb">uno</a>
+        	<a href="#!" class="breadcrumb">dos</a>
+        	<a href="#!" class="breadcrumb">tresi</a>
      	 </div>
     
     </nav>

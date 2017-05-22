@@ -105,18 +105,19 @@ align-items: center;
 
 }
 
-.tomai img {
+.tm div
+{
 	
+}
+
+.tj img {
 	border-radius: 50%;
 	z-index: 1;
 }
 
-.tj {
-	
-}
-
-.tm {
-	
+.tm img {
+	border-radius: 50%;
+	z-index: 1;
 }
 
 
