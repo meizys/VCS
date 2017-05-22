@@ -8,8 +8,14 @@ body * {
 
 header {
 	background-image: url(../images/kalnas.jpg);
+	
+}
+
+.home header {
+	background-image: url(../images/kalnas.jpg);
 	height: 100vh;
 }
+
 
 .overlay {
 	position: absolute;

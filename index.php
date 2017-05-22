@@ -1,6 +1,9 @@
 
+<?php 
 
-<?php include ('header.php'); ?>
+$pavadinimas = "home";
+
+include ('header.php'); ?>
 
 	<div class="jpt1">
 		<h1><img src="images/usai.png"></h1>

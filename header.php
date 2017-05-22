@@ -14,8 +14,17 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
 <script src="scripts/script.js"></script>
 
-</head>
+</head><?php
+if (isset($pavadinimas))
+{
+echo "<body class='home'>";
+}
 
+else
+{
+	echo "<body>";
+}
+?>
 <body>
 <header>
 
