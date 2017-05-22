@@ -107,3 +107,32 @@ z-index: 1;
 	right: 160px;
 	top: 360px;
 }
+
+.mpt1 {
+	text-align: center;
+}
+
+.mpt1 img {
+	width: 240px;
+	height: 240px;
+}
+
+.mpt1 h5{
+	font-size: 64px;
+}
+
+.mpt1 h5 span {
+	width: 64px;
+	border-top: 1px black solid;
+	display: inline-block;
+	position: relative;
+	bottom: 4px;
+}
+
+.mpt1 h5 span::first-child {
+	padding-right: 16px;
+}
+
+.mpt1 h5 span::last-child {
+	padding-left: 16px;
+}
