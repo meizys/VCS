@@ -19,26 +19,17 @@
 </header>
 
  <div class="col s12 m7">
-    <h2 class="header">Horizontal Card</h2>
+    <h2 class="header kaciuStraipsnis">"Kas nutiktų, jei katei ar šuniui pašalintumėte ūsus?"</h2>
     <div class="card horizontal">
       <div class="card-image">
-        <img src="images/kaciukas.jpg">
+        <img  src="images/kaciukas.jpg">
       </div>
       <div class="card-stacked">
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p style="font-weight: bold;">Dažnas yra atkreipęs dėmesį į katės, žiurkės ar šuns ūsus. Dauguma net žino, kad katėms juos nukirpti nėra labai gerai (vienas kitas tokį eksperimentą greičiausiai slapta bandė atlikti vaikystėje). Dėl šunų ūsų jaudinamasi mažiau. Tačiau išties – kas tai per dalykas? Kam jie skirti ir kodėl tiek daug gyvūnų juos turi?</p>
 
-          <p>I am a very simple card. I am good at containing small bits of information.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p style="margin-top: 24px">Tie stori, kieti plaukai, kuriuos vadiname ūsais, išties yra vibrisės. Vibrisės auga įvairiose vietose – virš akių, apie snukį, ant kojų, net ant viso kūno (priklausomai nuo rūšies). Šių plaukų funkcija – lytėjimas. Tai – lyg gyvūniški „pirštai“. Štai banginiai evoliucijos eigoje prarado visus plaukius, bet vibrises pasiliko – turbūt jos visai neblogas dalykas Vibrisės... Vibrises turi dauguma žinduolių, įskaitant ir primatus, tačiau žmonės jomis kažkodėl nesidžiaugia (kai kurie nebent turi „reliktą“ – vibrisinius raumenis virš viršutinės lūpos). Kadangi vibrisės auga daugybei net nelabai tarpusavy susijusių žinduolių rūšių, manoma, kad seniai seniai jos išsivystė kažkokiam bendram žinduolių protėviui.
+          Ūsais vadinamos vibrisės skirstomos į dvi grupes: makrovibrises (didelės, išsikišusios į šonus, skirtos erdvei pajusti) ir mikrovibrises (mažutės, augančios žemiau šnervių, daugiausia nukreiptos žemyn, naudojamos objektams identifikuoti).</p>
         </div>
       </div>
     </div>
