@@ -1,5 +1,5 @@
 $(window).scroll(function(){
-      if ($(this).scrollTop() > 260) {
+      if ($(this).scrollTop() > 300) {
           $('#task_flyout').addClass('fixed');
       } else {
           $('#task_flyout').removeClass('fixed');
