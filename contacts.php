@@ -10,7 +10,7 @@ include ('header.php'); ?>
     </nav>
     </div>
 
-<div class="row">
+<div class="musurow row">
 
 	<div class="snukiai col s12 m3 l4">
 

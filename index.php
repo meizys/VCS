@@ -62,6 +62,8 @@ include ('header.php'); ?>
       </div>
     </div>
   </div>
-<!-- futeris -->
+<?php 
+
+include ('footer.php'); ?>
   </body>
 
