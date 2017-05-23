@@ -7,7 +7,7 @@
     </nav>
     </div>
 
-   <div class="otherHeaders">
+   <div class="otherHeaders storiusai">
     <h1><img src="images/usai.png"></h1>
 <!--     <h5>
     <span></span>
@@ -22,7 +22,7 @@
     <h2 class="header">Horizontal Card</h2>
     <div class="card horizontal">
       <div class="card-image">
-        <img src="http://lorempixel.com/100/190/nature/6">
+        <img src="images/kaciukas.jpg">
       </div>
       <div class="card-stacked">
         <div class="card-content">

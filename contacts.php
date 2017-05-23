@@ -27,7 +27,7 @@ include ('header.php'); ?>
 	</div>
 
 	<div class="snukiai col s12 m3 l4">
-	<a href="TomasJ.php">
+	<a href="bandymas.php">
 		
 		<img src="https://scontent.fvno2-1.fna.fbcdn.net/v/t1.0-1/p240x240/18194011_1518688208141275_5074574138601620795_n.jpg?oh=457e1c86f199c1c4f236a63cbe4155f9&oe=59BBE9A6"></a>
 	<p> Tomas Jusel</p>

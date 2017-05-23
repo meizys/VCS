@@ -7,7 +7,7 @@
     </nav>
     </div>
   
-  <div class="otherHeaders">
+  <div class="otherHeaders storiusai">
     <h1><img src="images/usai.png"></h1>
 <!--     <h5>
     <span></span>
