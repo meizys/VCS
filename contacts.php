@@ -9,7 +9,7 @@ include ('header.php'); ?>
     </nav>
     </div>
 
-	<div class="homeHeader kontaktai">
+	<div class="otherHeaders kontaktai">
     <h1><img id="task_flyout" src="images/usai.png"></h1>
 	</div>
 

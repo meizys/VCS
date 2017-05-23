@@ -6,23 +6,21 @@ include ('header.php'); ?>
         <div class="col s12">
           <a href="#!" class="breadcrumb">Home</a>
        </div>
-    
     </nav>
     </div>
-
 	<div class="homeHeader">
-    <h1><img id="task_flyout" src="images/usai.png"></h1>
+    <h1><img id="task_flyout" <?php displayRandomPhotoArea();?>></h1>
 	</div>
 </header>
 
-<h3 class="MOK">Populiariaūsai</h3>
+<h3 class="MOK">Most popular stories</h3>
 
   <div class="row">
     <div class="col s12 m6 l4">
       <div class="card">
         <div class="card-image">
-          <img src=src="images/kaciukas.jpg">
-          <span class="card-title">"Kas nutiktų, jei katei ar šuniui pašalintumėte ūsus?"</span>
+          <img src="images/kalnas1.jpg">
+          <span class="card-title">Card Title</span>
           <a href="story1.php" class="btn-floating halfway-fab waves-effect waves-light red">
             <i class="material-icons">add</i>
           </a>

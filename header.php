@@ -14,27 +14,38 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
 <script src="scripts/script.js"></script>
 
-</head><?php
+</head>
+
+<?php
 if (isset($pavadinimas))
 {
 echo "<body class='home'>";
 }
-
 else
 {
 	echo "<body>";
 }
 ?>
+
+<?php
+function displayRandomPhotoArea() 
+{
+    $photoAreas = array("images/0.png", "images/1.png", "images/2.png", "images/3.png", "images/4.png");
+
+    $randomNumber = array_rand($photoAreas);
+    $randomImage = $photoAreas[$randomNumber];
+
+    echo "<img src=\"$randomImage\"";
+}?>
+
 <body>
 <header>
-
 	<div class="overlay"></div>
 	<div class="navbar-fixed">
 	<nav class="nav-wrapper grey lighten-1">
-		<img class="logo" id="logo_flyout" src="images/head-top.png">
 		<ul id="nav-mobile" class="right">
         	<li><a href="index.php">Home</a></li>
         	<li><a href="portfolio.php">Njūsai</a></li>
         	<li><a href="contacts.php">Contacts</a></li>
       	</ul>
-
+<img class="logo" id="logo_flyout" src="images/head-top.png">

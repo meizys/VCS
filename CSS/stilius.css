@@ -33,7 +33,6 @@ margin-left: auto;
 margin-right: auto;
 }
 
-
 nav {
 	position: absolute;
 	z-index: 1;
@@ -74,31 +73,13 @@ z-index: 2;
 	height: 140px;
 }
 
-.homeHeader h1, .homeHeader h2 {
+.homeHeader h1 {
 	text-align: center;
 }
 
 .homeHeader h2{
 	font-size: 32px;
 }
-
-.homeHeader h2 span {
-	width: 64px;
-	border-top: 1px black solid;
-	display: inline-block;
-	position: relative;
-	bottom: 4px;
-}
-
-.homeHeader h2 span::first-child {
-	padding-right: 16px;
-}
-
-.homeHeader h2 span::last-child {
-	padding-left: 16px;
-}
-
-
 /*Puslapių kur headeris ne per visa ekrana CSS*/
 .otherHeaders img {
 	width: 140px;
@@ -112,9 +93,6 @@ left: 50%;
 margin-left: -70px;
 z-index: 2;
 }
-
-
-
 
 /*Kontantų puspapio CSS*/
 .tomai {
