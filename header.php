@@ -38,13 +38,3 @@ else
         	<li><a href="contacts.php">Contacts</a></li>
       	</ul>
 
-      	
-      	<div class="col s12">
-        	<a href="#!" class="breadcrumb">uno</a>
-        	<a href="#!" class="breadcrumb">dos</a>
-        	<a href="#!" class="breadcrumb">tresi</a>
-     	 </div>
-    
-    </nav>
-    </div>
-

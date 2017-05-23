@@ -1,8 +1,14 @@
 
 <?php 
-
 $pavadinimas = "home";
 include ('header.php'); ?>
+
+        <div class="col s12">
+          <a href="#!" class="breadcrumb">Home</a>
+       </div>
+    
+    </nav>
+    </div>
 
 	<div class="homeHeader">
     <h1><img id="task_flyout" src="images/usai.png"></h1>
@@ -12,7 +18,6 @@ include ('header.php'); ?>
 		  <span></span>
 		  </h2>
 	</div>
-
 </header>
 
 <h3 class="MOK">Most popular stories</h3>

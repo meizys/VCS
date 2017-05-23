@@ -2,12 +2,19 @@
 <?php  $pavadinimas = "home";
 
 include ('header.php'); ?>
+        <div class="col s12">
+          <a href="index.php" class="breadcrumb">Home</a>
+          <a href="#!" class="breadcrumb">Contacts</a>
+       </div>
+    
+    </nav>
+    </div>
 
 <div class="row">
 
 	<div class="snukiai col s12 m4 l3">
 
-	<a href="https://www.facebook.com/tomas.meizys">
+	<a href="TomasM.php">
 		<img src="https://scontent.fvno2-1.fna.fbcdn.net/v/t1.0-1/p240x240/14695483_10207818477724508_5393302547858388378_n.jpg?oh=d631166094e46f3d54ac54730e7495c7&oe=59B9AAAE"></a>
 	<p> Tomas Meizys</p>
 	</div>
@@ -17,7 +24,7 @@ include ('header.php'); ?>
 	</div>
 
 	<div class="snukiai col s12 m4 l3">
-	<a href="https://www.facebook.com/tomas.jusel">
+	<a href="TomasJ.php">
 		<img src="https://scontent.fvno2-1.fna.fbcdn.net/v/t1.0-1/p240x240/18194011_1518688208141275_5074574138601620795_n.jpg?oh=457e1c86f199c1c4f236a63cbe4155f9&oe=59BBE9A6"></a>
 	<p> Tomas Jusel</p>
 	</div>

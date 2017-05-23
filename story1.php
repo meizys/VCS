@@ -1,4 +1,12 @@
  <?php include ('header.php'); ?>
+         <div class="col s12">
+          <a href="index.php" class="breadcrumb">Home</a>
+          <a href="portfolio.php" class="breadcrumb">Njūsai</a>
+          <a href="#!" class="breadcrumb">Njūsai apie ūsus</a>
+       </div>
+    </nav>
+    </div>
+
    <div class="otherHeaders">
     <h1><img src="images/usai.png"></h1>
 <!--     <h5>
