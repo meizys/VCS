@@ -95,8 +95,6 @@ position:fixed; top:50%; right:50%;
 }
 
 
-
-
 /*Puslapių kur headeris ne per visa ekrana CSS*/
 .otherHeaders img {
 	width: 140px;
@@ -110,7 +108,7 @@ position:fixed; top:50%; right:50%;
 
 
 .tomai {
-	   border-radius: 50%;
+	border-radius: 50%;
     z-index: 1;
     display: block;
     width: 100px;
@@ -137,11 +135,7 @@ position:fixed; top:50%; right:50%;
     max-width: 400px;
     max-height: 400px;
     width: 100%;
-
-
 }
-
-
 
 .snukiai img {
 
@@ -152,13 +146,11 @@ position:fixed; top:50%; right:50%;
     max-width: 250px;
         width: 100%;
     height: auto;
-
 }
 
 .snukiai p {
 text-align: center;
 }
-
 
 .row {
 	position: relative;
