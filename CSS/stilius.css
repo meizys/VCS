@@ -104,7 +104,7 @@ nav div {
    border-radius: 50%;
     z-index: 1;
     display: block;
-        margin: 0 auto
+        margin: 0 auto;
 }
 
 }
@@ -114,22 +114,14 @@ nav div {
 
 }
 
-.tj img {
+.tomai {
 	   border-radius: 50%;
     z-index: 1;
     display: block;
-    width: 200px;
-    margin: 0 auto
-}
+    width: 100px;
+    margin: 0 auto;
 }
 
-.tm img {
-	    border-radius: 50%;
-    z-index: 1;
-    display: block;
-    width: 200px;
-    margin: 0 auto
-}
 
 
 .row {
