@@ -33,6 +33,7 @@ include ('header.php'); ?>
 	<p> Tomas Jusel</p>
 		
 	</div>
-
-
 </div>
+</header>
+
+<?php include ('footer.php'); ?>
