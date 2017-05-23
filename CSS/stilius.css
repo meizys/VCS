@@ -128,21 +128,41 @@ position:fixed; top:50%; right:50%;
 /*Kontantų puspapio CSS*/
 .mapas {
    border-radius: 50%;
-   z-index: 1;
-   display: inline-block;
-   margin: 0 auto
+   display: block;
+   margin: 0 auto;
+       display: block;
+    padding: 0;
+    text-align: center;
 }
 
-.snukiai img {
-	border-radius: 50%;
-    z-index: 1;
-    display: inline-block;
-    width: 200px;
-    margin: 0 auto
+.mapas iframe {
+ display: block;
+   margin: 0 auto;
+       display: block;
+    padding: 0;
+    text-align: center;
+
 }
->>>>>>> d42e9415d06404f6083ca0df6a99b1c95be7cae1
+
+
+
+.snukiai img {
+
+	border-radius: 50%;
+	    display: block;
+    margin: 0 auto;
+    margin-top: 120px;
+
+}
+
+.snukiai p {
+text-align: center;
+}
+
 
 .row {
 	position: relative;
 	z-index: 1;
+	top: 180px;
+	margin: 0 auto;
 }
