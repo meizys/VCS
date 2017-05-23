@@ -9,7 +9,7 @@ body * {
 
 header {
 	background-image: url(../images/kalnas.jpg);
-	
+	min-height: 250px;
 }
 
 .home header {
@@ -103,6 +103,7 @@ z-index: 2;
 	width: 140px;
 	height: 140px;
 }
+
 .otherHeaders{
 position:fixed;
 top: 58px;
