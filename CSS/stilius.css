@@ -103,10 +103,16 @@ z-index: 2;
 	width: 140px;
 	height: 140px;
 }
+.otherHeaders{
+position:fixed;
+top: 58px;
+left: 50%;
+margin-left: -70px;
+z-index: 2;
+}
 
-/*.otherHeaders h1{
-	text-align: center;
-}*/
+
+
 
 /*Kontantų puspapio CSS*/
 .tomai {
