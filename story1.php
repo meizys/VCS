@@ -8,13 +8,8 @@
     </div>
 
    <div class="otherHeaders storiusai">
-    <h1><img src="images/usai.png"></h1>
-<!--     <h5>
-    <span></span>
-    Istorijos apačioj
-    <span></span>
-    </h5>
- -->  </div>
+  <h1><img src="images/usai.png"></h1>
+    </div>
 
 </header>
 

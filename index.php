@@ -12,11 +12,6 @@ include ('header.php'); ?>
 
 	<div class="homeHeader">
     <h1><img id="task_flyout" src="images/usai.png"></h1>
-<!-- 		  <h2>
-		  <span></span>
-		  Vešlūs
-		  <span></span>
-		  </h2> -->
 	</div>
 </header>
 

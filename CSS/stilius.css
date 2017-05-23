@@ -9,7 +9,7 @@ body * {
 
 header {
 	background-image: url(../images/kalnas.jpg);
-	
+	min-height: 250px;
 }
 
 .home header {
@@ -104,9 +104,16 @@ z-index: 2;
 	height: 140px;
 }
 
-/*.otherHeaders h1{
-	text-align: center;
-}*/
+.otherHeaders{
+position:fixed;
+top: 58px;
+left: 50%;
+margin-left: -70px;
+z-index: 2;
+}
+
+
+
 
 /*Kontantų puspapio CSS*/
 .tomai {
