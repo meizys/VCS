@@ -6,13 +6,13 @@ $(window).scroll(function(){
       }
   });
 
-$(window).scroll(function(){
-      if ($(this).scrollTop() > 560) {
-          $('#logo_flyout').addClass('fixed');
-      } else {
-          $('#logo_flyout').removeClass('fixed');
-      }
-  });
+// $(window).scroll(function(){
+//       if ($(this).scrollTop() > 560) {
+//           $('#logo_flyout').addClass('fixed');
+//       } else {
+//           $('#logo_flyout').removeClass('fixed');
+//       }
+//   });
 
 $( document ).ready(function() {
 	$(".mapas .apvalinimas").height($(".mapas iframe").width());
