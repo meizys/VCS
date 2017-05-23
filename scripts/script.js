@@ -6,6 +6,13 @@ $(window).scroll(function(){
       }
   });
 
+$(window).scroll(function(){
+      if ($(this).scrollTop() > 560) {
+          $('#logo_flyout').addClass('fixed');
+      } else {
+          $('#logo_flyout').removeClass('fixed');
+      }
+  });
 
 $( document ).ready(function() {
 	$(".mapas iframe").height($(".mapas iframe").width());
@@ -16,14 +23,5 @@ $( window ).resize(function() {
 
   console.log( $(".mapas iframe").height());
 });
-
-// $(window).scroll(function(){
-//       if ($(this).scrollTop() > 560) {
-//           $('#logo_flyout').addClass('fixed');
-//       } else {
-//           $('#logo_flyout').removeClass('fixed');
-//       }
-//   });
-
 
 
