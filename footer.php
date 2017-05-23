@@ -2,11 +2,11 @@
           <div class="container">
             <div class="row">
               <div class="col l6 s12">
-                <h5 class="white-text">Footer Content</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+                <h5 class="white-text">(ne)Mūsų adresas:</h5>
+                <p class="grey-text text-lighten-4">Kalvarijų g. 157 Vilnius.</p>
               </div>
               <div class="col l4 offset-l2 s12">
-                <h5 class="white-text">Links</h5>
+                <h5 class="white-text">Surask mus <img src="images/fb.png" height="64" width="64"></h5>
                 <ul>
                   <li><a class="grey-text text-lighten-3" href="https://www.facebook.com/tomas.meizys">Tomas feisbukas</a></li>
                   <li><a class="grey-text text-lighten-3" href="https://www.facebook.com/tomas.jusel">Tomaš feisbukas</a></li>
