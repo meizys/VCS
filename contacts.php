@@ -10,7 +10,7 @@ include ('header.php'); ?>
     </div>
 
 	<div class="otherHeaders kontaktai">
-    <h1><img id="task_flyout" src="images/usai.png"></h1>
+    <h1><img id="task_flyout" <?php displayRandomPhotoArea();?>></h1>
 	</div>
 
 <div class="musurow row">

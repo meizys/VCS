@@ -8,7 +8,7 @@
     </div>
 
    <div class="otherHeaders storiusai">
-  <h1><img src="images/usai.png"></h1>
+  <h1><img <?php displayRandomPhotoArea();?>></h1>
     </div>
 
 </header>

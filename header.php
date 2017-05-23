@@ -30,7 +30,7 @@ else
 <?php
 function displayRandomPhotoArea() 
 {
-    $photoAreas = array("images/0.png", "images/1.png", "images/2.png", "images/3.png", "images/4.png");
+    $photoAreas = array("images/0.png", "images/1.png", "images/2.png", "images/3.png");
 
     $randomNumber = array_rand($photoAreas);
     $randomImage = $photoAreas[$randomNumber];
