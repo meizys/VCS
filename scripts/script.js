@@ -6,6 +6,17 @@ $(window).scroll(function(){
       }
   });
 
+
+$( document ).ready(function() {
+	$(".mapas iframe").height($(".mapas iframe").width());
+});
+
+$( window ).resize(function() {
+  $(".mapas iframe").height($(".mapas iframe").width());
+
+  console.log( $(".mapas iframe").height());
+});
+
 // $(window).scroll(function(){
 //       if ($(this).scrollTop() > 560) {
 //           $('#logo_flyout').addClass('fixed');
