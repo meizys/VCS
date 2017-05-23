@@ -102,14 +102,13 @@ z-index: 2;
 .otherHeaders img {
 	width: 140px;
 	height: 140px;
-
 }
 
-.otherHeaders h1, .otherHeaders h2 {
+/*.otherHeaders h1{
 	text-align: center;
-}
+}*/
 
-
+/*Kontantų puspapio CSS*/
 .tomai {
 	border-radius: 50%;
     z-index: 1;
@@ -118,8 +117,6 @@ z-index: 2;
     margin: 0 auto;
 }
 
-
-/*Kontantų puspapio CSS*/
 .mapas {
    border-radius: 50%;
    display: block;
