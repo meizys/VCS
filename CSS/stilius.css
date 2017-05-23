@@ -163,6 +163,6 @@ text-align: center;
 .row {
 	position: relative;
 	z-index: 1;
-	top: 180px;
+	top: 120px;
 	margin: 0 auto;
 }
