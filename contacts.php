@@ -24,7 +24,9 @@ include ('header.php'); ?>
 	</div>
 
 	<div class="mapas col s12 m3 l4">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2304.2246505322664!2d25.283308515649725!3d54.7232631783851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd914a09d9610d%3A0x9ee314dc48fbbed8!2sKalvarij%C5%B3+g.+157%2C+Vilnius+08313!5e0!3m2!1slt!2slt!4v1495465417608" width="450" height="450" frameborder="0" style="border-radius: 50%" allowfullscreen></iframe>
+	<div class="apvalinimas">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2304.2246505322664!2d25.283308515649725!3d54.7232631783851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd914a09d9610d%3A0x9ee314dc48fbbed8!2sKalvarij%C5%B3+g.+157%2C+Vilnius+08313!5e0!3m2!1slt!2slt!4v1495465417608" width="450" height="450" frameborder="0" allowfullscreen></iframe>
+	</div>
 	</div>
 
 	<div class="snukiai col s12 m3 l4">

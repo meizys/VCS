@@ -15,14 +15,14 @@ include ('header.php'); ?>
 	</div>
 </header>
 
-<h3 class="MOK">Most popular stories</h3>
+<h3 class="MOK">Populiariaūsai</h3>
 
   <div class="row">
     <div class="col s12 m6 l4">
       <div class="card">
         <div class="card-image">
-          <img src="images/kalnas1.jpg">
-          <span class="card-title">Card Title</span>
+          <img src=src="images/kaciukas.jpg">
+          <span class="card-title">"Kas nutiktų, jei katei ar šuniui pašalintumėte ūsus?"</span>
           <a href="story1.php" class="btn-floating halfway-fab waves-effect waves-light red">
             <i class="material-icons">add</i>
           </a>

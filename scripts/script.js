@@ -15,10 +15,12 @@ $(window).scroll(function(){
   });
 
 $( document ).ready(function() {
+	$(".mapas .apvalinimas").height($(".mapas iframe").width());
 	$(".mapas iframe").height($(".mapas iframe").width());
 });
 
 $( window ).resize(function() {
+	$(".mapas .apvalinimas").height($(".mapas iframe").width());
   $(".mapas iframe").height($(".mapas iframe").width());
 
   console.log( $(".mapas iframe").height());
