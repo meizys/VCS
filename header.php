@@ -31,20 +31,10 @@ else
 	<div class="overlay"></div>
 	<div class="navbar-fixed">
 	<nav class="nav-wrapper grey lighten-1">
-		<img class="logo" src="images/head-top.png">
+		<img class="logo" id="logo_flyout" src="images/head-top.png">
 		<ul id="nav-mobile" class="right">
         	<li><a href="index.php">Home</a></li>
         	<li><a href="portfolio.php">Njūsai</a></li>
         	<li><a href="contacts.php">Contacts</a></li>
       	</ul>
-
-      	
-      	<div class="col s12">
-        	<a href="#!" class="breadcrumb">uno</a>
-        	<a href="#!" class="breadcrumb">dos</a>
-        	<a href="#!" class="breadcrumb">tresi</a>
-     	 </div>
-    
-    </nav>
-    </div>
 

@@ -1,3 +1,4 @@
+/*Navigacijos CSS*/
 body {
 	margin: 0px;
 }
@@ -16,7 +17,6 @@ header {
 	height: 100vh;
 }
 
-
 .overlay {
 	position: absolute;
 	top:0;
@@ -27,7 +27,7 @@ header {
 
 .logo
 {
-	display: block;
+display: block;
 position: relative;
 margin-left: auto;
 margin-right: auto;
@@ -50,40 +50,35 @@ nav div {
 	top:0px;
 }
 
-.jpt1 {
+
+/*Pagrindinio puslapio headeris*/
+.homeHeader {
 	color: black;
 	position: absolute;
 	width: 100%;
 	left: 0px;
 	top: 50vh;
 	transform: translateY(-16%);
-	
 }
 
-.jpt1 h1, .jpt1 h5 {
-	text-align: center;
+#task_flyout.fixed{
+position:fixed; top:50%; right:50%;
 }
 
-.jpt1 img {
-	width: 140px;
-	height: 140px;
-
-}
-
-.mpt1 img {
+.homeHeader img {
 	width: 140px;
 	height: 140px;
 }
 
-.mpt1 h1, .mpt1 h5 {
+.homeHeader h1, .homeHeader h2 {
 	text-align: center;
 }
 
-.jpt1 h5{
-	font-size: 16px;
+.homeHeader h2{
+	font-size: 32px;
 }
 
-.jpt1 h5 span {
+.homeHeader h2 span {
 	width: 64px;
 	border-top: 1px black solid;
 	display: inline-block;
@@ -91,14 +86,15 @@ nav div {
 	bottom: 4px;
 }
 
-.jpt1 h5 span::first-child {
+.homeHeader h2 span::first-child {
 	padding-right: 16px;
 }
 
-.jpt1 h5 span::last-child {
+.homeHeader h2 span::last-child {
 	padding-left: 16px;
 }
 
+<<<<<<< HEAD
 .mapas {
 	
    border-radius: 50%;
@@ -107,13 +103,19 @@ nav div {
         margin: 0 auto;
 }
 
+=======
+/*Puslapių kur headeris ne per visa ekrana CSS*/
+.otherHeaders img {
+	width: 140px;
+	height: 140px;
+>>>>>>> d42e9415d06404f6083ca0df6a99b1c95be7cae1
 }
 
-.tm div
-{
-
+.otherHeaders h1, .otherHeaders h2 {
+	text-align: center;
 }
 
+<<<<<<< HEAD
 .tomai {
 	   border-radius: 50%;
     z-index: 1;
@@ -122,7 +124,23 @@ nav div {
     margin: 0 auto;
 }
 
+=======
+/*Kontantų puspapio CSS*/
+.mapas {
+   border-radius: 50%;
+   z-index: 1;
+   display: inline-block;
+   margin: 0 auto
+}
 
+.snukiai img {
+	border-radius: 50%;
+    z-index: 1;
+    display: inline-block;
+    width: 200px;
+    margin: 0 auto
+}
+>>>>>>> d42e9415d06404f6083ca0df6a99b1c95be7cae1
 
 .row {
 	position: relative;
