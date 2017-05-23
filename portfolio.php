@@ -9,12 +9,7 @@
   
   <div class="otherHeaders">
     <h1><img src="images/usai.png"></h1>
-<!--     <h5>
-    <span></span>
-    Istorijos apačioj
-    <span></span>
-    </h5>
- -->  </div>
+</div>
 
 </header>
 
