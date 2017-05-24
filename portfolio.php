@@ -21,7 +21,7 @@ $sql = "SELECT * FROM Istorijos";
     $result = mysqli_query($conn, $sql);
     while ($row = mysqli_fetch_assoc($result)) {
 
-    echo "<div class='col s12 m7'>string";
+    echo "<div class='col s12 m7'>";
     echo "<h2 class='header kaciuStraipsnis portfolioPav'>" . $row["TITLE"] ."</h2>";
     echo "<div class='card horizontal'>";
     echo "<div class='card-image'>";  
@@ -29,7 +29,7 @@ $sql = "SELECT * FROM Istorijos";
     echo "</div>";      
     echo "<div class='card-stacked'>";  
     echo "<div class='card-content'>";  
-    echo "<p" . $row["TEXT"] . "</p>";
+    echo "<p>" . $row["TEXT"] . "</p>";  
     echo "</div>";   
     echo "<div class='card-action'";   
     echo "<a href='story1.php'>Spustelk!</a>";
