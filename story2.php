@@ -43,7 +43,7 @@
         </div>
       </div>
     </div>
-    <div class="col s12 m6 l4 offset-l2">
+    <div class="col s12 m6 l4">
       <div class="card">
         <div class="card-image">
           <img src="images/barzda.jpg">
