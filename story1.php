@@ -37,7 +37,7 @@
         <div class="card-image">
           <img src="images/barzda.jpg">
           <span class="card-title">"Barzda – tai ne stilius, o įsipareigojimas"</span>
-          <a href="story1.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+          <a href="story3.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
           <p>Šiandien pamatyti vyrą su barzda ne toks ir retas reiškinys, nes auginti barzdą pastaruoju metu tapo madinga. Tačiau barzdočius vienijančio „Barzdų klubo“ nariai įsitikinę, kad tai ne tik stilius, bet ir tam tikros atsakomybės prisiėmimas. Stiprią šimtus vyrų subūrusio klubo bendruomenę vienija ne tik barzdos, bet ir bendra socialinė veikla.</p>
@@ -49,7 +49,7 @@
         <div class="card-image">
           <img src="images/vyras.jpg">
           <span class="card-title">"Kodėl vyrams auga barzda ir ūsai, o moterims - ne?"</span>
-          <a href="story1.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+          <a href="story2.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
           <p>Turite daktaro Fu Manču stiliaus ūsus? Vešlias žandenas? Mažą barzdelę po apatine lūpa? Jei taip, tikriausiai esate vyras, o plaukų augimą skatina jūsų organizme esantys hormonai.</p>

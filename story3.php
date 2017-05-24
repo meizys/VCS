@@ -37,7 +37,7 @@
         <div class="card-image">
           <img src="images/vyras.jpg">
           <span class="card-title">"Kodėl vyrams auga barzda ir ūsai, o moterims - ne?"</span>
-          <a href="story1.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+          <a href="story2.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
           <p>Turite daktaro Fu Manču stiliaus ūsus? Vešlias žandenas? Mažą barzdelę po apatine lūpa? Jei taip, tikriausiai esate vyras, o plaukų augimą skatina jūsų organizme esantys hormonai.</p>
