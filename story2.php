@@ -39,7 +39,7 @@
           <a href="story1.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
-          <p>Dažnas yra atkreipęs dėmesį į katės, žiurkės ar šuns ūsus. Dauguma net žino, kad katėms juos nukirpti nėra labai gerai (vienas kitas tokį eksperimentą greičiausiai slapta bandė atlikti vaikystėje). Dėl šunų ūsų jaudinamasi mažiau. Tačiau išties – kas tai per dalykas? Kam jie skirti ir kodėl tiek daug gyvūnų juos turi?</p>
+          <p>Dažnas yra atkreipęs dėmesį į loremkatės, žiurkės ar šuns ūsus. Dauguma net žino, kad katėms juos nukirpti nėra labai gerai (vienas kitas tokį eksperimentą greičiausiai slapta bandė atlikti vaikystėje). Dėl šunų ūsų jaudinamasi mažiau. Tačiau išties – kas tai per dalykas? Kam jie skirti ir kodėl tiek daug gyvūnų juos turi?</p>
         </div>
       </div>
     </div>

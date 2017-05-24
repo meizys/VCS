@@ -38,7 +38,7 @@ include ('header.php'); ?>
           <a href="story2.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
-          <p>Turite daktaro Fu Manču stiliaus ūsus? Vešlias žandenas? Mažą barzdelę po apatine lūpa? Jei taip, tikriausiai esate vyras, o plaukų augimą skatina jūsų organizme esantys hormonai.</p>
+          <p>Turite daktaro Fu Manču stiliaus ūsus? Vešlias žandenas? Mažą barzdelę po apatine lūpa? Jei taip, tikriausiai esate vyras, o plaukų augimą skatina jūsų loremorganizme esantys hormonai. Vaikystėje berniukų ir mergaičių kūnus dengia ploni, švelnūs, beveik nematomi plaukeliai, kurie, atėjus paauglystei, pradeda tamsėti ir storėti.</p>
         </div>
       </div>
     </div>
