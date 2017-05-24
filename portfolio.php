@@ -25,7 +25,7 @@ $sql = "SELECT * FROM Istorijos";
     echo "<h2 class='header kaciuStraipsnis portfolioPav'>" . $row["TITLE"] ."</h2>";
     echo "<div class='card horizontal'>";
     echo "<div class='card-image'>";  
-    echo "<img src='images/kaciukas.jpg' height='150' width='100'>";
+    echo "<img src='". $row["PIC"] ."' height='150' width='100'>";
     echo "</div>";      
     echo "<div class='card-stacked'>";  
     echo "<div class='card-content'>";  
