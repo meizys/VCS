@@ -32,7 +32,7 @@
 
 
     <div class="row">
-    <div class="col s12 m6 l6">
+    <div class="col s12 m6 l4 offset-l2">
       <div class="card">
         <div class="card-image">
           <img src="images/barzda.jpg">
@@ -44,7 +44,7 @@
         </div>
       </div>
     </div>
-    <div class="col s12 m6 l6">
+    <div class="col s12 m6 l4">
       <div class="card">
         <div class="card-image">
           <img src="images/vyras.jpg">
