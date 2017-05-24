@@ -15,33 +15,11 @@
 		$password = "";
 		$dbname = "Njusai";
 
-		// Create connection
 		$conn = mysqli_connect($servername, $username, $password, $dbname);
 		mysqli_set_charset($conn, "utf8");
-		echo "Connected successfully";
-
 		if (!$conn) {
 		    die("Connection failed: " . mysqli_connect_error());
 		}
-
-
-
-		$sql = "SELECT * FROM Istorijos'";
-
-		$result = mysqli_query($conn, $sql);
-
-while ($row = mysqli_fetch_assoc($result)) {
-	
-		    	echo "<tr>";
-
-		        echo "<td>" . $row["ID"] . "</td>";
-		        echo "<td>" . $row["TITLE"] . "</td>";
-		        echo "<td>" . $row["TEXT"] . "</td>";
-		        echo "<td>" . $row["PIC"] . "</td>";
-
-		        echo "</tr>";
-}
-mysqli_close($conn);  
 
 	?>
 </html>
