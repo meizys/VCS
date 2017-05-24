@@ -8,23 +8,21 @@ include ('header.php'); ?>
           <a href="contacts.php" class="breadcrumb">Contacts</a>
           <a href="#!" class="breadcrumb">TomasM</a>
        </div>
-    
     </nav>
     </div>
-
-	<div class="homeHeader">
-    <h1><img id="task_flyout" src="images/usai.png"></h1>
-		  <h2>
-		  <span></span>
-		  Vešlūs
-		  <span></span>
-		  </h2>
-	</div>
+  <div class="otherHeaders storiusai">
+     <h1><img <?php displayRandomPhotoArea();?>></h1>
+  </div>
 </header>
 
 <body>
 
 
 </body>
+
+
+
+
+
 
 
