@@ -26,4 +26,8 @@ $( window ).resize(function() {
   console.log( $(".mapas iframe").height());
 });
 
+    $(document).ready(function(){
+      $('.carousel').carousel();
+    });
+
 
